@@ -15,7 +15,7 @@ exibirMensagemInicial();
 //quantidade de vezes que chutou
 let tentativa = 1;
 let listaNumerosEscolhidos = [];
-let numeroLimite = 5;
+let numeroLimite = 10;
 
 //quando o botao "chute é clicado" ocorre isso
 function verificarChute() {
